@@ -28,7 +28,6 @@ Description: Returns a single "server" object that matches the provided ID.
 
 4. Get Servers by Name
 
-Endpoint: http://127.0.0.1:2017/getServer/{name}
 Description: Returns a list of "server" objects that match the provided name.
 
 5. Delete Server by ID
